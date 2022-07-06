@@ -3,7 +3,10 @@
 <br>
 
 <samp>
-> **Contato** [Linkedin](https://www.linkedin.com/in/iplinsky/) | [Instagram](https://www.instagram.com/leo.ipy/) | [Email](leoipy16@gmail.com)\
+> **Contato**
+[Linkedin](https://www.linkedin.com/in/iplinsky/)
+[Instagram] (https://www.instagram.com/leo.ipy/)
+[Email](leoipy16@gmail.com)\
 </samp>
 
 > **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub`
