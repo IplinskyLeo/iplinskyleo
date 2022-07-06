@@ -3,13 +3,15 @@
 
 
 > **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub`
+<br>
 > **Em andamento:** `MySQL` `Laragon` `TypeScript`
+<br>
 > **A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
 
 
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=iplinskyleo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="iplinskyleo" /> 
 </p>
 
 <h3>Statistical Data :-</h3>
