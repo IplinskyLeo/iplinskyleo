@@ -4,19 +4,18 @@
 
 <samp>
 > **Contato**
+<br>
 [Linkedin](https://www.linkedin.com/in/iplinsky/)
 <br>
 [Instagram] (https://www.instagram.com/leo.ipy/)
 <br>
-[Email](leoipy16@gmail.com)\
+[Email](leoipy16@gmail.com)
 </samp>
 
 > **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub`
 <br>
-
 > **Em andamento:** `MySQL` `Laragon` `TypeScript`
 <br>
-
 > **A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
 
 
