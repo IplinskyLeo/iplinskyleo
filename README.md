@@ -5,7 +5,9 @@
 <samp>
 > **Contato**
 [Linkedin](https://www.linkedin.com/in/iplinsky/)
+<br>
 [Instagram] (https://www.instagram.com/leo.ipy/)
+<br>
 [Email](leoipy16@gmail.com)\
 </samp>
 
