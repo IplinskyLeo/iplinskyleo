@@ -18,7 +18,7 @@
 <br>
 >**A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
 
-> **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub` `Laragon` 
+> **A começar:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub` `Laragon` 
 <br>
 
 
