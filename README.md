@@ -5,7 +5,7 @@
 <samp>
 
 > **Contato**
-<br>
+
 [Linkedin](https://www.linkedin.com/in/iplinsky/)
 <br>
 [Instagram] (https://www.instagram.com/leo.ipy/)
