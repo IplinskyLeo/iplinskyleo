@@ -16,8 +16,6 @@
 <br>
 **Em andamento:** `MySQL` `TypeScript`
 <br>
->**A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
-
 > **A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS` 
 <br>
 
