@@ -3,6 +3,7 @@
 <br>
 
 <samp>
+
 > **Contato**
 <br>
 [Linkedin](https://www.linkedin.com/in/iplinsky/)
@@ -14,6 +15,7 @@
 
 > **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub` `Laragon` 
 <br>
+
 **Em andamento:** `MySQL` `TypeScript`
 <br>
 
