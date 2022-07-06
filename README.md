@@ -18,6 +18,8 @@
 <br>
 >**A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
 
+> **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub` `Laragon` 
+<br>
 
 
 <p align="right"> <h3>Views:-</h3> <img src="https://komarev.com/ghpvc/?username=iplinskyleo&label=Profile%20views&color=0e75b6&style=flat"
