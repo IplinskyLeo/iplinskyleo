@@ -1,11 +1,18 @@
-### Hi there 👋
+<h1 align="center">OI 👋, Eu sou o Léo!</h1>
+<h3 align="center">Dev Full Stack Jr🌟.</h3>
+<br>
 
-
+<samp>
+- 🌱 Atualmente estou terminando minha formação na Resilia Educação
+> **Contato**   [Linkedin](https://www.linkedin.com/in/iplinsky/) | [Instagram](https://www.instagram.com/leo.ipy/) | [Email](leoipy16@gmail.com)\
+</samp>
 
 > **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub`
 <br>
+
 > **Em andamento:** `MySQL` `Laragon` `TypeScript`
 <br>
+
 > **A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
 
 
