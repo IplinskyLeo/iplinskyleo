@@ -7,9 +7,9 @@
 > **Contato**
 
 [Linkedin](https://www.linkedin.com/in/iplinsky/)
-<br>
-[Instagram] (https://www.instagram.com/leo.ipy/)
-<br>
+
+[Instagram](https://www.instagram.com/leo.ipy/)
+
 [Email](leoipy16@gmail.com)
 </samp>
 
@@ -18,16 +18,16 @@
 > **Em andamento:** `MySQL` `TypeScript`
 
 > **A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
- 
-<p align="right"> <h3>Views:-</h3> <img src="https://komarev.com/ghpvc/?username=iplinskyleo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="iplinskyleo" /> 
-</p>
 
 <h3>Estatísticas:-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=iplinskyleo&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="iplinskyleo" 
     bg_color=#808080/>
+</p>
+ 
+<p align="right"> <h3>Views:-</h3> <img src="https://komarev.com/ghpvc/?username=iplinskyleo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="iplinskyleo" /> 
 </p>
 
 <!--
