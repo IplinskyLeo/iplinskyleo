@@ -1,6 +1,8 @@
 <h1 align="center">OI 👋, Eu sou o Léo!</h1>
 <h3 align="center">Dev Full Stack Jr🌟.</h3>
 <h4 align="center"> Desde criança, sempre soube que minha fascinação por desenvolvimento se tornaria meu futuro. Minha motivação e resiliência foi a chave fundamental para alcançar meus objetivos. Sou um Jovem sonhador, apaixonado por tecnologia, inovação, desenvolvimento e facilitação.</h4>
+<h4 align="center"> Comecei meus estudos no início de 2022. Após algumas semanas, consegui uma bolsa em um curso B2B da Stone com a Resilia com foco em Desenvolvimento Web Full Stack. No momento estou plenamente capacitado para atuar em vagas de dev como Front-End. Minha formação está prevista para o final do mês de setembro de 2022.</h4>
+<h5> Confira alguns dos meus repositórios que há projetos pessoais, atividades semanais e projetos de final de módulo. Quer bater um papo? Pode me chamar que estarei ansioso por te conhecer!</h5>
 <br>
 
 <samp>
