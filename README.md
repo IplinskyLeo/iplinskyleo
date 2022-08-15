@@ -1,23 +1,20 @@
 <h1 align="center">OI 👋, Eu sou o Léo!</h1>
 <h3 align="center">Dev Full Stack Jr🌟.</h3>
+<h4 align="center"> Desde criança, sempre soube que minha fascinação por desenvolvimento se tornaria meu futuro. Minha motivação e resiliência foi a chave fundamental para alcançar meus objetivos. Sou um Jovem sonhador, apaixonado por tecnologia, inovação, desenvolvimento e facilitação.</h4>
 <br>
 
 <samp>
 
-> **Contato**
-
-[Linkedin](https://www.linkedin.com/in/iplinsky/)
-
-[Instagram](https://www.instagram.com/leo.ipy/)
-
-[Email](leoipy16@gmail.com)
+> **Contato** [Linkedin](https://www.linkedin.com/in/iplinsky/) [Instagram](https://www.instagram.com/leo.ipy/) [Email](leoipy16@gmail.com)
 </samp>
 
-> **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub` `Laragon` 
+<br>
 
-> **Em andamento:** `MySQL` `TypeScript`
+> **Skills:** `HTML` `CSS` `JavaScript` `JQuery` `JSON` `Bootstrap` `Git` `GitHub` `Laragon` `MySQL` `SQLite3`
 
-> **A começar:** `NodeJS` `Mongoose` `SQLite3` `DAO` `Jest` `Supertest` `ReactJS` `PHP` `Amazon AWS`
+> **Em andamento:** `NodeJS` `DAO` `Jest` `Supertest` `SASS` `TypeScript` 
+
+> **A começar:** `Mongoose` `ReactJS` `AWS` `C#` `Flutter`
 
 <h3>Estatísticas:-</h3>
 <p><img align="center"
